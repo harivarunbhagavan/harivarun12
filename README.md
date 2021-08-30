@@ -1,4 +1,4 @@
-# harivarun12
+# CPMS project
 
 
 Curfew Pass Management system is a web-based technology that will manage the records of pass which is issue by administrative and also help to provide online curfew e-pass to people who need to travel compulsory. Curfew Pass Management 
